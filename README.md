@@ -1,5 +1,11 @@
- #proje1
-# proje1
-# proje1
+
 # amazone-clone
-# amazone-clone
+
+-HTML,CSS kullanıldı
+
+
+## gif 
+
+
+
+<img src="Adsız tasarım (1).gif"/>
